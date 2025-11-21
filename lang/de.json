@@ -1,0 +1,16 @@
+{
+    "title": "UNLIMITED MATH GAME",
+    "start_game": "Spiel Starten",
+    "settings": "Einstellungen",
+    "exit": "Beenden",
+    "difficulty": "Schwierigkeit",
+    "language": "Sprache",
+    "back": "Zurück",
+    "score": "Punktzahl",
+    "level": "Level",
+    "problem": "Aufgabe",
+    "game_over": "SPIEL VORBEI",
+    "press_space": "Leertaste zum Neustart oder Q zum Beenden",
+    "welcome_level": "Willkommen in Level",
+    "level_up": "LEVEL AUFSTIEG!"
+}

@@ -1,0 +1,16 @@
+{
+    "title": "UNLIMITED MATH GAME",
+    "start_game": "Start Game",
+    "settings": "Settings",
+    "exit": "Exit",
+    "difficulty": "Difficulty",
+    "language": "Language",
+    "back": "Back",
+    "score": "Score",
+    "level": "Level",
+    "problem": "Problem",
+    "game_over": "GAME OVER",
+    "press_space": "Press Space to Restart or Q to Quit",
+    "welcome_level": "Welcome to Level",
+    "level_up": "LEVEL UP!"
+}

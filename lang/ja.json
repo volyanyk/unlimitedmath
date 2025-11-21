@@ -1,0 +1,16 @@
+{
+    "title": "無限数学ゲーム",
+    "start_game": "ゲーム開始",
+    "settings": "設定",
+    "exit": "終了",
+    "difficulty": "難易度",
+    "language": "言語",
+    "back": "戻る",
+    "score": "スコア",
+    "level": "レベル",
+    "problem": "問題",
+    "game_over": "ゲームオーバー",
+    "press_space": "スペースで再開、Qで終了",
+    "welcome_level": "レベルへようこそ",
+    "level_up": "レベルアップ！"
+}

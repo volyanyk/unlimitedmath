@@ -1,0 +1,16 @@
+{
+    "title": "ONBEPERKT WISKUNDE SPEL",
+    "start_game": "Start Spel",
+    "settings": "Instellingen",
+    "exit": "Afsluiten",
+    "difficulty": "Moeilijkheid",
+    "language": "Taal",
+    "back": "Terug",
+    "score": "Score",
+    "level": "Niveau",
+    "problem": "Probleem",
+    "game_over": "SPEL AFGELOPEN",
+    "press_space": "Spatie om te herstarten of Q om te stoppen",
+    "welcome_level": "Welkom bij niveau",
+    "level_up": "NIVEAU OMHOOG!"
+}

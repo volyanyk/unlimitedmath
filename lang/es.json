@@ -1,0 +1,16 @@
+{
+    "title": "JUEGO DE MATEMÁTICAS ILIMITADO",
+    "start_game": "Iniciar Juego",
+    "settings": "Configuración",
+    "exit": "Salir",
+    "difficulty": "Dificultad",
+    "language": "Idioma",
+    "back": "Atrás",
+    "score": "Puntuación",
+    "level": "Nivel",
+    "problem": "Problema",
+    "game_over": "JUEGO TERMINADO",
+    "press_space": "Espacio para reiniciar o Q para salir",
+    "welcome_level": "Bienvenido al nivel",
+    "level_up": "¡SUBIDA DE NIVEL!"
+}

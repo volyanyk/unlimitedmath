@@ -1,0 +1,16 @@
+{
+    "title": "무제한 수학 게임",
+    "start_game": "게임 시작",
+    "settings": "설정",
+    "exit": "종료",
+    "difficulty": "난이도",
+    "language": "언어",
+    "back": "뒤로",
+    "score": "점수",
+    "level": "레벨",
+    "problem": "문제",
+    "game_over": "게임 오버",
+    "press_space": "다시 시작하려면 스페이스, 종료하려면 Q",
+    "welcome_level": "레벨에 오신 것을 환영합니다",
+    "level_up": "레벨 업!"
+}

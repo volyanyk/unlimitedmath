@@ -1,0 +1,16 @@
+{
+    "title": "NIELIMITOWANA GRA MATEMATYCZNA",
+    "start_game": "Rozpocznij Grę",
+    "settings": "Ustawienia",
+    "exit": "Wyjście",
+    "difficulty": "Trudność",
+    "language": "Język",
+    "back": "Wstecz",
+    "score": "Wynik",
+    "level": "Poziom",
+    "problem": "Problem",
+    "game_over": "KONIEC GRY",
+    "press_space": "Spacja, aby zrestartować lub Q, aby wyjść",
+    "welcome_level": "Witamy na poziomie",
+    "level_up": "POZIOM W GÓRĘ!"
+}

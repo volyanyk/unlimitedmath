@@ -1,0 +1,16 @@
+{
+    "title": "无限数学游戏",
+    "start_game": "开始游戏",
+    "settings": "设置",
+    "exit": "退出",
+    "difficulty": "难度",
+    "language": "语言",
+    "back": "返回",
+    "score": "分数",
+    "level": "等级",
+    "problem": "问题",
+    "game_over": "游戏结束",
+    "press_space": "按空格键重新开始或按Q退出",
+    "welcome_level": "欢迎来到等级",
+    "level_up": "升级！"
+}

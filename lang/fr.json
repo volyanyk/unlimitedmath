@@ -1,0 +1,16 @@
+{
+    "title": "JEU DE MATHS ILLIMITÉ",
+    "start_game": "Démarrer le jeu",
+    "settings": "Paramètres",
+    "exit": "Quitter",
+    "difficulty": "Difficulté",
+    "language": "Langue",
+    "back": "Retour",
+    "score": "Score",
+    "level": "Niveau",
+    "problem": "Problème",
+    "game_over": "JEU TERMINÉ",
+    "press_space": "Espace pour redémarrer ou Q pour quitter",
+    "welcome_level": "Bienvenue au niveau",
+    "level_up": "NIVEAU SUPÉRIEUR!"
+}
